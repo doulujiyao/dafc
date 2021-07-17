@@ -31,5 +31,5 @@ The videos should be placed in a flat directory structure.
 Run the following command to preprocess all the videos:
 ```Bash
 cd dafc
-python train_large2.py
+python train_large_v2.py
 ```
