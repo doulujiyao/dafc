@@ -28,7 +28,7 @@ Download the [RAVDESS] (used in the paper) or alternatively any other source of 
 
 The videos should be placed in a flat directory structure.
 
-Run the following command to preprocess all the videos:
+Run the following command to train all the videos:
 ```Bash
 cd dafc
 python train_large_v2.py
